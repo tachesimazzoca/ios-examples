@@ -1,0 +1,9 @@
+*~
+.DS_Store
+*.xcodeproj
+*.lproj
+*-Info.plist
+*-Prefix.pch
+Default.png
+Default@2x.png
+Default-568h@2x.png
